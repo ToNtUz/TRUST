@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4ddc88c76b0b93a4087b71704c4282d6
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection.unity
+    guid: e357d23b0833e2b45889ef2d63f72541
+  - enabled: 1
+    path: Assets/Scenes/PaaKentta.unity
+    guid: f111edc6c2c62b842a655ee4d8427114
+  - enabled: 0
+    path: Assets/Scenes/Taistelu.unity
+    guid: adf69841a87cbcc4f9b6ec860ac2b45e
+  - enabled: 0
+    path: Assets/Scenes/JoonasScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
